@@ -1,0 +1,4 @@
+rootProject.name = "JetpackDemo"
+include ':app'
+include ':StartupLibrary'
+include ':StartupLibrary2'
